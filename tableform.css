@@ -25,7 +25,7 @@ hr{
 }
  
 li {
-	list-style-image: url("../images/icon-plus.png");
+	list-style-image: url("icon-plus.png");
 	line-height: 1.9em;
 	color: #64C3C3;
 }
