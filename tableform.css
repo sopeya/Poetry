@@ -8,6 +8,13 @@ body {
 	color: #64C3C3;
 	background-color: #B2E8E8;
 }
+header{
+	background-image: url(header.JPG);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
 
 h1{
 	font-family: "abusive pencil";
@@ -135,4 +142,12 @@ input[type="submit"]:hover {
 .submit {
 	width: 350px;
 	text-align: right;
+}
+
+footer{
+	background-image: url(footer.JPG);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
 }
