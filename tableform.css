@@ -15,7 +15,6 @@ body {
 }
 header{
 	padding: 5%;
-	object-fit: cover;
 	background-image: url(header.JPG);
 	background-size: cover;
 	background-repeat: no-repeat;
