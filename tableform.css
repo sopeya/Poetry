@@ -28,7 +28,10 @@ h1{
 	letter-spacing: 0.10em;
 	text-shadow: 6px 4px 2px #DAF6F6;
 }
-
+.announcement {
+	font: Times New Romans;
+	weight: 90%;
+}
 p{
 	margin: 10px;
   
