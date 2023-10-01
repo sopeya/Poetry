@@ -38,7 +38,7 @@ hr{
 li {
 	list-style-image: url("icon-plus.png");
 	line-height: 1.9em;
-   color: #64C3C3;
+	color: #64C3C3;
 }
 
 .announcement:hover{
@@ -50,26 +50,26 @@ li:hover{
 }
 
 table {
-		border-spacing: 0px;
-    padding: 40px;
-    padding-bottom: 7%;
+	border-spacing: 0px;
+	padding: 40px;
+	padding-bottom: 7%;
 	}
 
-	th, td {
-		padding: 10px 40px 10px 50px;
-		border-spacing: 0px;
-		font-size: 90%;
-		margin: 0px;
-	}
+th, td {
+	padding: 10px 40px 10px 50px;
+	border-spacing: 0px;
+	font-size: 90%;
+	margin: 0px;
+}
 			
-	th, td {
-		text-align: left;
-		background-color: #DAF6F6;
-		border-top: 1px solid #f1f8fe;
-		border-bottom: 1px solid #cbd2d8;
-		border-right: 1px solid #cbd2d8;
-    box-shadow:16px 16px 6px #DAF6F6;
-	}
+th, td {
+	text-align: left;
+	background-color: #DAF6F6;
+	border-top: 1px solid #f1f8fe;
+	border-bottom: 1px solid #cbd2d8;
+	border-right: 1px solid #cbd2d8;
+	box-shadow:16px 16px 6px #DAF6F6;
+}
 	
 tr.head th {
 	color: #fff;
