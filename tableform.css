@@ -1,10 +1,5 @@
-@font-face {
-  font-family: "abusive pencil";
-  src: url(abusive pencil.ttf) format('truetype') ;
-}
-
 body {
-	font-family: Palatino, Verdana, sans-serif;
+	font-family: Palatino, Papyrus, sans-serif;
 	font-size: 110%;
 	color: #64C3C3;
 	background-color: #B2E8E8;
@@ -20,19 +15,19 @@ header{
 }
 
 h1{
-  font: "abusive pencil";
-  color: #45AFAF;
-  letter-spacing: 0.10em;
-  text-shadow: 6px 3px 1px #DAF6F6;
+  	font: "Papyrus";
+  	color: #45AFAF;
+  	letter-spacing: 0.10em;
+  	text-shadow: 6px 3px 1px #DAF6F6;
 }
 
 p{
-  margin: 10px;
+  	margin: 10px;
   
 }
 
 hr{
-  border: 3px double #45AFAF;
+  	border: 3px double #45AFAF;
 }
  
 li {
@@ -42,11 +37,11 @@ li {
 }
 
 .announcement:hover{
-  color: #000;
+  	color: #000;
 }
 
 li:hover{
-  color: #000;
+  	color: #000;
 }
 
 table {
@@ -75,7 +70,7 @@ tr.head th {
 	color: #fff;
 	background-color: #64C3C3;
 	border-bottom: 2px solid #DFE6F7;
-  border-right: 1px solid #DAF6F6;
+  	border-right: 1px solid #DAF6F6;
 	border-top: 1px solid #DAF6F6;
 	text-align: center;
 	text-shadow: -1px -1px 1px #666666;
@@ -103,15 +98,15 @@ tr.head th:last-child {
 }
 
 fieldset {
-  margin: 0 auto;
-  width: 350px;
+  	margin: 0 auto;
+  	width: 350px;
 	margin-top: 20px;
-   /*margin: 30px;*/
-  border-radius: 10px;
+   	/*margin: 30px;*/
+  	border-radius: 10px;
 	border: 3px solid #d6d6d6;
-  background-color: #DAF6F6;
+  	background-color: #DAF6F6;
 	line-height: 1.9em;
-  box-shadow:-16px 16px 6px #DAF6F6;
+	box-shadow:-16px 16px 6px #DAF6F6;
 }
 
 legend {
@@ -120,10 +115,10 @@ legend {
 }
 
 input[type="text"] {
-  width: 120px;
+  	width: 120px;
 	border: 1px solid #d6d6d6;
 	padding: 2px;
-  outline: none;
+  	outline: none;
 }
 
 input[type="text"]:focus,
@@ -154,19 +149,18 @@ input[type="submit"]:hover {
 }
 
 .submit {
-  padding-top: 2%;
-	width: 1600px;
+  	padding-top: 2%;
+	width: auto;
 	text-align: center;
-  padding-bottom: 5%;
+  	padding-bottom: 5%;
 }
 
 footer{
-  padding: 5%;
+  	padding: 5%;
 	background-image: url(footer.JPG);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: fixed;
 	bottom: 0;
-	width: 100%;
 }
